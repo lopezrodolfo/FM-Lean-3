@@ -1,4 +1,4 @@
-# Advanced Mathematical Functions in Lean
+# Advanced Mathematical Functions in Lean3
 
 This Lean project contains implementations of various mathematical functions and operations, including:
 
